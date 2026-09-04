@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/surface/main/.github/assets/thumbnail.png" alt="surface" width="100%">
+</p>
+
 github surface audit.
 
 rule:
