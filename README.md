@@ -16,5 +16,5 @@ run:
 
 ```sh
 scripts/audit-github-surface.sh harpertoken
-scripts/audit-github-surface.sh bniladridas
+scripts/audit-github-surface.sh coccinella-labs
 ```
